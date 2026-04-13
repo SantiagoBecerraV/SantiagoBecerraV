@@ -29,8 +29,20 @@
   <a href="mailto:santybv080920@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/SantiagoBecerraV"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+<p align="center">
+  <a href="https://instagram.com/beceeev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  </a>
+  <br>
+  Bece Vz
+</p>
 
+## 🛠️ Herramientas
 
+<p align="center">
+  <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"><br>
+  VS Code
+</p>
 <br />
 <br />
 <br />
