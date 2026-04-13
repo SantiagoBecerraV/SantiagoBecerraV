@@ -14,10 +14,15 @@
 - Mi nombre completo es **Santiago Becerra Vasquez** 
 <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="350" align="right"/>
 - Actualmente soy un estudiandte de ingenieria de software en un campus de Programacion
+<br />
 - Tengo estudios en ingles con tecnico
+<br />
 - Tengo conocimientos basicos en los lenguajes de programacion
+<br />
 - Mis metas es llegar a ser un gran programador especializado
+<br />
 - Tengo experiencia laborar basica
+<br />
 
 <br />
 <p align="center">
