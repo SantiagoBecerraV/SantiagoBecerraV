@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**SantiagoBecerraV/SantiagoBecerraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <h1 align="left">Hola 👋, Soy Santiago Becerra
+  </h1> 
+  <img width="250" height="150" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+
+- My nombre completo es **Santiago Becerra Vasquez** 
+<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="350" align="right"/>
+- 
+- 
+- 
+- 
+- 
+
+
+
+
+  
