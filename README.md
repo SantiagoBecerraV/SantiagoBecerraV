@@ -1,18 +1,15 @@
 
 <p align="right">
   <h1 align="left">Hola 👋</h1> 
-    Soy Santiago Becerra
-  <br />
-  <br />
-  </h1> 
-  <img width="250" height="150" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
-</p>
+    Soy Santiago Becerra un estudiante de ingeniería de software enfocado en mejorar constantemente mis habilidades técnicas y personales. Me apasiona la tecnología, el aprendizaje continuo y el desarrollo de soluciones que generen impacto.
+
+Actualmente me encuentro en formación, creciendo en mis bases en programación y desarrollando disciplina para convertirme en un profesional muy versatil para todos los ambitos que vienen en mi futuro.
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></img> Acerca de mi
 
 - Mi nombre completo es **Santiago Becerra Vasquez** 
-<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="350" align="right"/>
+<img width="250" height="150" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498" align="right"/>
 - Actualmente soy un estudiandte de ingenieria de software en un campus de Programacion
 <br />
 - Tengo estudios en ingles con tecnico
