@@ -5,7 +5,11 @@ Soy Santiago Becerra un estudiante de ingeniería de software enfocado en mejora
 <br />
 <br />
 Actualmente me encuentro en formación, creciendo en mis bases en programación y desarrollando disciplina para convertirme en un profesional muy versatil para todos los ambitos que vienen en mi futuro.
-
+<br />
+<br />
+<p align="center">
+  <em>"Cada uno es el protagonista de su propia vida"</em>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></img> Acerca de mi
 
@@ -23,9 +27,11 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 -Tengo experiencia laborar basica
 <br />
 
+<p align="center">
+  <em>"Proverbios 9:10 afirma que "El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la inteligencia""</em>
+</p>
 <br />
 <p align="center">
-  <a href="mailto:santybv080920@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/SantiagoBecerraV"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <p align="center">
@@ -35,9 +41,19 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
   <br>
   Bece Vz
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <br>
+    santybv080920@gmail.com
+</p>
 
 ## 🎯 Objetivo profesional
 #### Mi meta es convertirme en un desarrollador de software especializado, con la capacidad de trabajar en proyectos de alto nivel, aportar soluciones innovadoras y crecer dentro de la industria tecnológica.
+
+<br />
+<p align="center">
+  <em>"Lo importante no es el principio o la mitad, es como terminas"</em>
+</p>
 
 ## 🧠 Conocimientos
 - 💻 Manejar las peticiones de clientes o jefes
@@ -54,10 +70,9 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 </p>
 <br />
 <br />
-<br />
- <p align="center"> 
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/> 
-
-
+ 
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35%"/> 
+</p>
 
   
