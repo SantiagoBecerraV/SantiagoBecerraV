@@ -3,6 +3,7 @@
   <h1 align="left">Hola 👋</h1> 
 Soy Santiago Becerra un estudiante de ingeniería de software enfocado en mejorar constantemente mis habilidades técnicas y personales. Me apasiona la tecnología, el aprendizaje continuo y el desarrollo de soluciones que generen impacto.
 <br />
+<br />
 Actualmente me encuentro en formación, creciendo en mis bases en programación y desarrollando disciplina para convertirme en un profesional muy versatil para todos los ambitos que vienen en mi futuro.
 
 
@@ -10,6 +11,7 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 
 -Mi nombre completo es **Santiago Becerra Vasquez** 
 <img width="250" height="150" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498" align="right"/>
+<br />
 -Actualmente soy un estudiandte de ingenieria de software en un campus de Programacion
 <br />
 -Tengo estudios en ingles con tecnico
@@ -33,6 +35,16 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
   <br>
   Bece Vz
 </p>
+
+## 🎯 Objetivo profesional
+#### Mi meta es convertirme en un desarrollador de software especializado, con la capacidad de trabajar en proyectos de alto nivel, aportar soluciones innovadoras y crecer dentro de la industria tecnológica.
+
+## 🧠 Conocimientos
+- 💻 Manejar las peticiones de clientes o jefes
+- 🌐 Conocimientos básicos en desarrollo de software
+- 🇺🇸  Inglés técnico (nivel funcional)
+- 🧩 Resolución de problemas
+- 🤝 Trabajo en equipo y adaptación
 
 ## 🛠️ Herramientas
 
