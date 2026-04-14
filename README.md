@@ -26,7 +26,7 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 <br />
 -Tengo experiencia laborar basica
 <br />
-
+<br />
 <p align="center">
   <em>"Proverbios 9:10 "El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la inteligencia""</em>
 </p>
@@ -48,7 +48,7 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 </p>
 
 ## 🎯 Objetivo profesional
-#### Mi meta es convertirme en un desarrollador de software especializado, con la capacidad de trabajar en proyectos de alto nivel, aportar soluciones innovadoras y crecer dentro de la industria tecnológica.
+#### Mi meta es convertirme en un desarrollador de software especializado, con la capacidad de trabajar en proyectos de alto nivel, saber manejar la IA en su expresion profesional y la creacion de esa misma, aportar con mi creatividad a innovar en temas tecnologico y crecer en todos los ambitos que pueda aprender.
 
 <br />
 <p align="center">
