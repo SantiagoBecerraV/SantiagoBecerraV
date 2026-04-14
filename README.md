@@ -1,6 +1,6 @@
 
 <p align="right">
-  <h1 align="left">Hola 👋</h1> 
+  <h1 align="center">BIENVENIDOS 👋</h1> 
 Soy Santiago Becerra un estudiante de ingeniería de software enfocado en mejorar constantemente mis habilidades técnicas y personales. Me apasiona la tecnología, el aprendizaje continuo y el desarrollo de soluciones que generen impacto.
 <br />
 <br />
@@ -76,8 +76,10 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
   VS Code
 </p>
 <br />
+<p align="center">
+  <em>"El oro, la plata y las mujeres no son nada sin amor."</em>
+</p>
 <br />
- 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35%"/> 
 </p>
