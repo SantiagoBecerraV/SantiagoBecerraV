@@ -28,7 +28,7 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 <br />
 
 <p align="center">
-  <em>"Proverbios 9:10 afirma que "El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la inteligencia""</em>
+  <em>"Proverbios 9:10 "El temor de Jehová es el principio de la sabiduría, y el conocimiento del Santísimo es la inteligencia""</em>
 </p>
 <br />
 <p align="center">
