@@ -62,6 +62,13 @@ Actualmente me encuentro en formación, creciendo en mis bases en programación 
 - 🧩 Resolución de problemas
 - 🤝 Trabajo en equipo y adaptación
 
+## 📈 Actualmente trabajando en
+- Obtener habilidades avanzadas en programación
+- Aprender nuevos manejos en la IA
+- Mejorar mi nivel de ingles
+- Desarrollar mejores habilidades en terminos de empleabilidad
+- Aprender a ser un profesional avanzado
+
 ## 🛠️ Herramientas
 
 <p align="center">
