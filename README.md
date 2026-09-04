@@ -1,6 +1,6 @@
 
 <p align="right">
-  <h1 align="center">BIENVENIDOS 👋</h1> 
+  <h1 align="center">HOLA, BIENVENIDO A MI PERFIL 👋</h1> 
 Soy Santiago Becerra un estudiante de ingeniería de software enfocado en mejorar constantemente mis habilidades técnicas y personales. Me apasiona la tecnología, el aprendizaje continuo y el desarrollo de soluciones que generen impacto.
 <br />
 <br />
