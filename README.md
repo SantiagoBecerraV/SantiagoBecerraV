@@ -4,7 +4,13 @@
 Soy Santiago Becerra un estudiante de ingeniería de software enfocado en mejorar constantemente mis habilidades técnicas y personales. Me apasiona la tecnología, el aprendizaje continuo y el desarrollo de soluciones que generen impacto.
 <br />
 <br />
+I am Santiago Becerra, a Software Engineering student focused on continuously improving my technical and personal skills. I am passionate about technology, continuous learning, and developing solutions that create a positive impact.
+<br />
+<br />
 Actualmente me encuentro en formación, creciendo en mis bases en programación y desarrollando disciplina para convertirme en un profesional muy versatil para todos los ambitos que vienen en mi futuro.
+<br />
+<br />
+Currently, I am building a strong foundation in programming while developing the discipline and adaptability needed to become a versatile professional. My goal is to keep learning, face new challenges, and prepare myself for the different opportunities that my future career may bring.
 <br />
 <br />
 <p align="center">
