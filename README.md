@@ -40,12 +40,6 @@ Currently, I am building a strong foundation in programming while developing the
 <p align="center">
 <a href="https://github.com/SantiagoBecerraV"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<p align="center">
-  <a href="https://instagram.com/beceeev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
-  <br>
-  Bece Vz
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
