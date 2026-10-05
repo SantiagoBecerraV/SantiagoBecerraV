@@ -76,8 +76,6 @@ Currently, I am building a strong foundation in programming while developing the
   VS Code
 </p>
 <br />
-<p align="center">
-  <em>"El oro, la plata y las mujeres no son nada sin amor."</em>
 </p>
 <br />
 <p align="center">
